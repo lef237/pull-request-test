@@ -18,9 +18,9 @@ var sortNumber = function (number) {
 
 
 
-
+テストテスト
 
 
 
 リベースの実験
->>>>>>> sono2
+ sono2
