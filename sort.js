@@ -16,11 +16,10 @@ var sortNumber = function (number) {
  追加の行
 
 
-
+rebasebase
 
 
 
 
 
 リベースの実験
->>>>>>> sono2
