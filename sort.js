@@ -12,4 +12,15 @@ var sortNumber = function (number) {
  console.log(number);
 
  tabun koko konfli gyou
+
  追加の行
+
+
+
+
+
+
+
+
+リベースの実験
+>>>>>>> sono2
