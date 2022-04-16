@@ -12,3 +12,11 @@ var sortNumber = function (number) {
  console.log(number);
 
  tabun koko konfli gyou
+
+
+
+
+
+
+
+リベースの実験
